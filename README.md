@@ -17,10 +17,10 @@ Short notes are preferred over a giant feature matrix. Where a project looks aba
 
 ## Dedicated wavetable editors and generators
 
-- **[WaveEdit](https://github.com/AndrewBelt/WaveEdit)** — Free, cross-platform, open-source wavetable and bank editor originally made for the Synthesis Technology E352 Cloud Terrarium and E370 Quad Morphing VCO. The official Synthesis Technology page (`synthtech.com/waveedit`) went offline in April 2026 and the project is defunct, but the open-source code remains on GitHub and is still useful for hardware/modular workflows and WaveEdit-style banks.
-  _Status: defunct (official site offline April 2026) / source on GitHub_
-
 - **[CarveToy](https://www.carvetoy.online/)** — Browser-based tool for creating and sharing custom wavetables. Good for quick experimentation and modular-style wavetable generation without installing anything.
+  _Status: free / browser-based_
+
+- **[WaveForge](https://icalchemy.com/wavetable-generator)** (IC Alchemy) — Free browser-based wavetable generator with four creation modes: freehand drawing, harmonic/additive, math formulas, and image-to-wavetable. Real-time oscilloscope and 3D spectral views, frame morphing, and 32-bit float WAV export compatible with Serum, Vital, and Ableton Wavetable.
   _Status: free / browser-based_
 
 - **[Sonic Academy NODE](https://www.sonicacademy.com/products/node)** — Dedicated visual wavetable editor/generator. Vector-based waveform editing for creating unique wavetables: drawing, morphing, importing samples, and exporting to common software synth formats.
@@ -36,10 +36,10 @@ Short notes are preferred over a giant feature matrix. Where a project looks aba
   _Status: free / browser-based_
 
 - **[AudioTerm](https://modwiggler.com/forum/viewtopic.php?t=195396)** (by Mathias Gurk) — Free Windows FFT-based wavetable generator and resynthesis utility. Analyzes samples and builds wavetables (KTERM/XFORM modes), assembles single cycles, and exports WAV for common synths. Powerful but not beginner-friendly; no official site — distributed via the ModWiggler thread.
-  _Status: free / Windows-only_
+  _Status: free / Windows-only / legacy_
 
-- **[WaveForge](https://icalchemy.com/wavetable-generator)** (IC Alchemy) — Free browser-based wavetable generator with four creation modes: freehand drawing, harmonic/additive, math formulas, and image-to-wavetable. Real-time oscilloscope and 3D spectral views, frame morphing, and 32-bit float WAV export compatible with Serum, Vital, and Ableton Wavetable.
-  _Status: free / browser-based_
+- **[WaveEdit](https://github.com/AndrewBelt/WaveEdit)** — Free, cross-platform, open-source wavetable and bank editor originally made for the Synthesis Technology E352 Cloud Terrarium and E370 Quad Morphing VCO. The official Synthesis Technology page (`synthtech.com/waveedit`) went offline in April 2026 and the project is defunct, but the open-source code remains on GitHub and is still useful for hardware/modular workflows and WaveEdit-style banks.
+  _Status: defunct (official site offline April 2026) / source on GitHub_
 
 ## Synths with useful built-in wavetable editors
 
