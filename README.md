@@ -35,8 +35,8 @@ Short notes are preferred over a giant feature matrix. Where a project looks aba
 - **[Fine Increments Free Wavetable Generator](https://www.fineincrements.com/free-wavetable-generator)** — Simple browser-based generator for creating and exporting standard WAV wavetables. Designed for Wavefield but also targets synths like Serum, Vital, Pigments, and Massive. Lightweight quick tool rather than a deep editor.
   _Status: free / browser-based_
 
-- **Audio-Term** — Older Windows wavetable/spectral resynthesis utility. Powerful and weird, but not beginner-friendly. Still mentioned by people doing deeper wavetable generation work.
-  _Status: Windows-only / needs verification (canonical link)_
+- **[AudioTerm](https://modwiggler.com/forum/viewtopic.php?t=195396)** (by Mathias Gurk) — Free Windows FFT-based wavetable generator and resynthesis utility. Analyzes samples and builds wavetables (KTERM/XFORM modes), assembles single cycles, and exports WAV for common synths. Powerful but not beginner-friendly; no official site — distributed via the ModWiggler thread.
+  _Status: free / Windows-only_
 
 - **[WaveForge](https://icalchemy.com/wavetable-generator)** (IC Alchemy) — Free browser-based wavetable generator with four creation modes: freehand drawing, harmonic/additive, math formulas, and image-to-wavetable. Real-time oscilloscope and 3D spectral views, frame morphing, and 32-bit float WAV export compatible with Serum, Vital, and Ableton Wavetable.
   _Status: free / browser-based_
@@ -57,20 +57,20 @@ These are full synths, not lightweight editors — but their built-in wavetable 
 - **[Vaporizer2](https://github.com/VASTDynamics/Vaporizer2)** (VAST Dynamics) — Free, open-source (GPL-3.0) hybrid wavetable/additive synth with a deep built-in wavetable editor: draw mode with Bézier curves, plus frequency shift, smoothing, bend, and bloat on single cycles. VST2/VST3/AU/AAX/CLAP/LV2 and standalone on Win/macOS/Linux.
   _Status: free / open source_
 
-- **Xfer Serum / Serum 2** — One of the standard wavetable editor workflows. Strong for sample import, spectral editing, morphing, formula-based generation, and export.
-  _Status: commercial / needs verification (Serum 2 docs)_
+- **[Xfer Serum / Serum 2](https://xferrecords.com/products/serum-2)** — One of the standard wavetable editor workflows. Real-time wavetable editor for creating waveforms from scratch or editing existing ones, plus sample import, spectral editing, morphing, and formula-based generation. Serum 2 is a free upgrade for Serum 1 owners.
+  _Status: commercial_
 
-- **Kilohearts Phase Plant** — Modular synth environment with wavetable editing/generation. Best if you already like modular plugin workflows.
-  _Status: commercial / needs verification (docs link)_
+- **[Kilohearts Phase Plant](https://kilohearts.com/docs/wavetables)** — Modular synth with a full built-in wavetable editor: draw partials or freehand frames, morph between keyframes, and import/convert samples to wavetables. Best if you like modular plugin workflows.
+  _Status: commercial_
 
-- **Tone2 Icarus** — Deep wavetable synth with serious additive/spectral editing tools. More of a full synth workstation than a lightweight editor.
-  _Status: commercial / needs verification (docs link)_
+- **[Tone2 Icarus](https://www.tone2.com/icarus-wavetables.html)** — Hybrid wavetable synth with a deep wavetable editor (100+ tools), additive/spectral editing, draw-your-own waveforms, and one-click resynthesis of audio into wavetables. Imports/exports tables to other synths. More a full workstation than a lightweight editor.
+  _Status: commercial_
 
-- **u-he Hive / UHM** — Supports script-based/procedural wavetable generation using UHM files. Not visual, but powerful for formulaic or algorithmic wavetable design.
-  _Status: commercial / needs verification (docs link)_
+- **[u-he Hive / UHM](https://u-he.com/products/hive/)** — Supports procedural wavetable generation via `.uhm` (u-he math) scripts: readable text files that build wavetables from formulas and commands. Not visual, but powerful for formulaic/algorithmic design; the UHM format is shared across u-he synths.
+  _Status: commercial_
 
-- **Waldorf Nave** — Wavetable synth with visual/3D wavetable editing, especially notable on iOS.
-  _Status: commercial / needs verification (docs link)_
+- **[Waldorf Nave](https://waldorfmusic.com/nave-ios/)** — Wavetable synth with a 3D wavetable editor: draw and edit tables, analyze audio files, and even generate wavetables from typed speech (the "Talk" function). Especially notable on iPad; also available as desktop VST/AU/AAX.
+  _Status: commercial_
 
 ## Hardware and modular-oriented tools
 
@@ -78,12 +78,6 @@ Format compatibility is one of the most painful parts of wavetable work, so thes
 
 - **[Wavearium](https://github.com/dotKokott/wavearium)** — WaveEdit-like editor for viewing, searching, creating, and collecting wavetables. Currently focused on the Piston Honda MkIII format. Relevant for Eurorack users, but looks early/unfinished: no releases, tiny repo activity, few stars.
   _Status: experimental / low activity_
-
-- **WaveEdit forks / custom builds** — Some hardware workflows point users toward WaveEdit or modified WaveEdit versions. Deserves a small section once specific forks are verified.
-  _Status: needs verification_
-
-- **Erica Synths Graphic VCO tools** — Possible hardware-specific format/export notes.
-  _Status: needs verification_
 
 ## Format and compatibility notes
 
