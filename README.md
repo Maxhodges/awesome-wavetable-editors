@@ -17,8 +17,8 @@ Short notes are preferred over a giant feature matrix. Where a project looks aba
 
 ## Dedicated wavetable editors and generators
 
-- **[WaveEdit](https://github.com/AndrewBelt/WaveEdit)** — Free, cross-platform, open-source wavetable and bank editor originally made for the Synthesis Technology E352 Cloud Terrarium and E370 Quad Morphing VCO ([synthtech.com/waveedit](https://synthtech.com/waveedit/)). Still useful for hardware/modular workflows and WaveEdit-style banks, but appears largely unmaintained.
-  _Status: free / open source / unmaintained_
+- **[WaveEdit](https://github.com/AndrewBelt/WaveEdit)** — Free, cross-platform, open-source wavetable and bank editor originally made for the Synthesis Technology E352 Cloud Terrarium and E370 Quad Morphing VCO. The official Synthesis Technology page (`synthtech.com/waveedit`) went offline in April 2026 and the project is defunct, but the open-source code remains on GitHub and is still useful for hardware/modular workflows and WaveEdit-style banks.
+  _Status: defunct (official site offline April 2026) / source on GitHub_
 
 - **[CarveToy](https://www.carvetoy.online/)** — Browser-based tool for creating and sharing custom wavetables. Good for quick experimentation and modular-style wavetable generation without installing anything.
   _Status: free / browser-based_
