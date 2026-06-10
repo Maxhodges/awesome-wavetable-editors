@@ -81,9 +81,9 @@ Format compatibility is one of the most painful parts of wavetable work, so thes
 
 ## Format and compatibility notes
 
-Wavetable compatibility is messy. Different synths expect different frame counts, sample lengths, bit depths, and file layouts.
+Wavetable compatibility is messy. Different synths expect different frame counts, sample lengths, bit depths, and file layouts, so a table that loads cleanly in one synth may import wrong (or not at all) in another.
 
-Useful things to document when known:
+Things that commonly differ between targets:
 
 - number of frames per wavetable
 - samples per frame
@@ -93,8 +93,6 @@ Useful things to document when known:
 - whether it can import single-cycle waves
 - whether it interpolates between frames
 - whether conversion is needed before loading into hardware
-
-Avoid trying to fully document every format up front. Add short notes only when verified.
 
 ## Related resources and forum threads
 
