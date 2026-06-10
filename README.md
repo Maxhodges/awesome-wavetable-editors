@@ -57,15 +57,6 @@ These are full synths, not lightweight editors — but their built-in wavetable 
 - **[Vaporizer2](https://github.com/VASTDynamics/Vaporizer2)** (VAST Dynamics) — Free, open-source (GPL-3.0) hybrid wavetable/additive synth with a deep built-in wavetable editor: draw mode with Bézier curves, plus frequency shift, smoothing, bend, and bloat on single cycles. VST2/VST3/AU/AAX/CLAP/LV2 and standalone on Win/macOS/Linux.
   _Status: free / open source_
 
-- **[Arturia Pigments](https://www.arturia.com/products/software-instruments/pigments/)** — Wavetable + sample + virtual-analog synth with a built-in wavetable editor. Imports audio and parses it to its format (2048 samples/single-cycle, up to 256 frames), and is a common export target for dedicated editors like NODE.
-  _Status: commercial_
-
-- **[Ableton Live Wavetable](https://www.ableton.com/en/live/)** — Live's built-in Wavetable device lets you drag and drop audio to turn it into a wavetable and import existing wavetables. Convenient if you already work in Live, though it's a player/synth rather than a deep editor.
-  _Status: commercial (bundled with Live)_
-
-- **[Bitwig Studio](https://www.bitwig.com/)** — The Polymer and Grid environments include wavetable oscillators with 100+ built-in tables and custom wavetable import. Strong for modular-style patching workflows.
-  _Status: commercial_
-
 - **Xfer Serum / Serum 2** — One of the standard wavetable editor workflows. Strong for sample import, spectral editing, morphing, formula-based generation, and export.
   _Status: commercial / needs verification (Serum 2 docs)_
 
