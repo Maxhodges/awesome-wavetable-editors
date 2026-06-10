@@ -72,9 +72,6 @@ These are full synths, not lightweight editors — but their built-in wavetable 
 - **Waldorf Nave** — Wavetable synth with visual/3D wavetable editing, especially notable on iOS.
   _Status: commercial / needs verification (docs link)_
 
-- **Korg modwave / modwave native** — Can import custom wavetables and Serum-format libraries. Relevant for hardware users and people moving between plugin and hardware workflows.
-  _Status: commercial / hardware / needs verification (docs link)_
-
 ## Hardware and modular-oriented tools
 
 Format compatibility is one of the most painful parts of wavetable work, so these are worth including — but they aren't the main focus of the list.
