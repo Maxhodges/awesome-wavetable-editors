@@ -115,8 +115,10 @@ Things that commonly differ between targets:
 ## Related resources and forum threads
 
 - **[Synthstrom Audible forum: Wavetable creation tools](https://forums.synthstrom.com/discussion/4406/wavetable-creation-tools)** — Existing forum discussion/index attempt. Useful but not a structured list.
-- **KVR Audio threads** — Useful for older recommendations like Audio-Term, WaveEdit forks, and obscure utilities. _Needs specific thread links._
-- **ModWiggler threads** — Useful for modular/hardware-specific format notes. _Needs specific thread links._
+- **[WaveEdit Online](https://waveeditonline.com)** — Community site hosting 100+ free WaveEdit-format wavetable banks (E352/E370 and compatible). Handy source of ready-made tables to import or convert.
+- **[KVR Audio: Easiest VST to create custom wavetables?](https://www.kvraudio.com/forum/viewtopic.php?t=627271)** — Representative recommendation thread; KVR is also where older utilities like Audio-Term and WaveEdit forks get discussed.
+- **[ModWiggler: WaveEdit wavetable share thread (2026 and beyond)](https://www.modwiggler.com/forum/viewtopic.php?p=4462998)** — Active modular/hardware thread sharing tables for Multiwave, Piston Honda MkIII, Kermit MkIII, and E352/E370, with practical format/conversion discussion.
+- **[ModWiggler: Loading custom wavetables on Piston Honda MkIII](https://modwiggler.com/forum/viewtopic.php?t=225848)** — Explains the PH MkIII file layout (eight `1.wav`–`8.wav` files, X/Y/Z slider mapping) — a good concrete example of how messy hardware wavetable formats get.
 
 ## Contributing
 
