@@ -38,8 +38,8 @@ Short notes are preferred over a giant feature matrix. Where a project looks aba
 - **Audio-Term** — Older Windows wavetable/spectral resynthesis utility. Powerful and weird, but not beginner-friendly. Still mentioned by people doing deeper wavetable generation work.
   _Status: Windows-only / needs verification (canonical link)_
 
-- **WaveForge Wavetable App** — Open-source/experimental wavetable app project. Claims drawing, harmonic/additive, math/formula, and image-to-wavetable generation.
-  _Status: experimental / needs verification (canonical link)_
+- **[WaveForge](https://icalchemy.com/wavetable-generator)** (IC Alchemy) — Free browser-based wavetable generator with four creation modes: freehand drawing, harmonic/additive, math formulas, and image-to-wavetable. Real-time oscilloscope and 3D spectral views, frame morphing, and 32-bit float WAV export compatible with Serum, Vital, and Ableton Wavetable.
+  _Status: free / browser-based_
 
 ## Synths with useful built-in wavetable editors
 
@@ -47,6 +47,24 @@ These are full synths, not lightweight editors — but their built-in wavetable 
 
 - **[Vital](https://vital.audio/)** — Free/paid wavetable synth with a surprisingly deep built-in editor. Supports graphical manipulation of waveforms, harmonics, and phases, plus converting samples to wavetables. Useful even if you only use it to design and export tables. ([Wavetable editor docs](https://davidmvogel.com/docs/Vital/UserGuide/Wavetable-Editor))
   _Status: free / commercial_
+
+- **[u-he Zebralette 3](https://u-he.com/products/freeware/zebralette/)** — Free synth built around a single, very deep oscillator with a genuinely excellent wavetable/spectral editor: spline-based editing, Bézier handles, freehand drawing, warping/morphing, and additive synthesis. Exports the pure wavetable as WAV for use in other synths. One of the best free design-and-export tools available.
+  _Status: free_
+
+- **[Surge XT](https://surge-synthesizer.github.io/)** — Free, open-source synth (Win/macOS/Linux, VST3/AU/CLAP/LV2/standalone) with a wavetable oscillator and a script ("wtscript") oscillator that generates wavetables from Lua, with FFT helpers. Exports to `.wav`, `.wt`, Serum, and Bitwig `.wt` formats — useful as a programmable wavetable factory.
+  _Status: free / open source_
+
+- **[Vaporizer2](https://github.com/VASTDynamics/Vaporizer2)** (VAST Dynamics) — Free, open-source (GPL-3.0) hybrid wavetable/additive synth with a deep built-in wavetable editor: draw mode with Bézier curves, plus frequency shift, smoothing, bend, and bloat on single cycles. VST2/VST3/AU/AAX/CLAP/LV2 and standalone on Win/macOS/Linux.
+  _Status: free / open source_
+
+- **[Arturia Pigments](https://www.arturia.com/products/software-instruments/pigments/)** — Wavetable + sample + virtual-analog synth with a built-in wavetable editor. Imports audio and parses it to its format (2048 samples/single-cycle, up to 256 frames), and is a common export target for dedicated editors like NODE.
+  _Status: commercial_
+
+- **[Ableton Live Wavetable](https://www.ableton.com/en/live/)** — Live's built-in Wavetable device lets you drag and drop audio to turn it into a wavetable and import existing wavetables. Convenient if you already work in Live, though it's a player/synth rather than a deep editor.
+  _Status: commercial (bundled with Live)_
+
+- **[Bitwig Studio](https://www.bitwig.com/)** — The Polymer and Grid environments include wavetable oscillators with 100+ built-in tables and custom wavetable import. Strong for modular-style patching workflows.
+  _Status: commercial_
 
 - **Xfer Serum / Serum 2** — One of the standard wavetable editor workflows. Strong for sample import, spectral editing, morphing, formula-based generation, and export.
   _Status: commercial / needs verification (Serum 2 docs)_
