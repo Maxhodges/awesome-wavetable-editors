@@ -29,6 +29,9 @@ Short notes are preferred over a giant feature matrix. Where a project looks aba
 - **[Ocean Swift Wavetable Creator](https://oceanswift.net/product/wavetable-creator/)** — Dedicated macOS/Windows wavetable creator focused on export compatibility across hardware, modular environments, and software synths. Includes crossfade/blending techniques and robust export options.
   _Status: commercial_
 
+- **[WaveStack](https://wavestack.app/)** — Wavetable editor for macOS, Windows, and iPad. Draw and build 1D and 2D tables or make them from samples and images, and play them while editing. Export presets set the frame size, frame count, and file layout per target, including Serum, Vital, Surge XT (`.wt`), Deluge, MicroFreak, Disting NT, E352/E370, and Piston Honda MkIII. Optional Pro upgrade adds 3D volumes, morphing between tables, and plugin versions (CLAP/VST3/AU/AUv3).
+  _Status: free / commercial_
+
 - **[Lambda Synthetics Wavetable Designer](https://lambdasynthetics.com/wavetable-designer/)** — Browser-based wavetable design tool. Demo mode disables downloading. Worth tracking, especially if it continues developing hardware-friendly export options.
   _Status: commercial / browser-based_
 
